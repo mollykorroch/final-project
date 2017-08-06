@@ -1,0 +1,34 @@
+/*
+ Theme Name:   Phlox Child
+ Theme URI:    finalproject.mollyhunterkorroch.com
+ Description:  Phlox Child Theme
+ Author:       Molly Korroch
+ Author URI:   www.mollyhunterkorroch.com
+ Template:     phlox
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  phlox-child
+*/
+
+/* latin-ext */
+
+@import url('https://fonts.googleapis.com/css?family=Trykker');
+
+#site-header {
+	display: none;
+}
+
+.aux-page-title-entry {
+	text-align: center;
+
+}
+
+.page-title {
+	font-family: "Trykker", "Times", serif;
+}
+
+.ms-nav-next, .ms-nax-prev {
+	opacity: .4;
+}
