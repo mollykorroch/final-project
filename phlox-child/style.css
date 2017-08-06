@@ -22,13 +22,20 @@
 
 .aux-page-title-entry {
 	text-align: center;
-
 }
 
 .page-title {
 	font-family: "Trykker", "Times", serif;
 }
 
-.ms-nav-next, .ms-nax-prev {
+.ms-nav-next {
 	opacity: .4;
+}
+
+.ms-nav-prev {
+	opacity: .4;
+}
+
+.site-footer {
+	display: none;
 }
